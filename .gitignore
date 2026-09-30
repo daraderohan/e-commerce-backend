@@ -1,1 +1,6 @@
-target/\n.idea/\n.gradle/\nbuild/
+target/
+.idea/
+.gradle/
+build/
+.postman/
+postman/
